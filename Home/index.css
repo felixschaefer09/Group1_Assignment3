@@ -85,6 +85,11 @@ nav a:hover {
   text-align: center;
 }
 
+.section h2 img {
+    width: 220px;
+    height: auto;
+}
+
 .section ul {
   text-align: left;
   max-width: 800px;
